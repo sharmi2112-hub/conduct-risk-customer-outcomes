@@ -57,8 +57,8 @@ The analysis follows four main steps from raw data processing to final reporting
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sharmi2112-hub/uk-consumer-duty-analysis.git
-cd uk-consumer-duty-analysis
+git clone https://github.com/sharmi2112-hub/conduct-risk-customer-outcomes.git
+cd conduct-risk-customer-outcomes
 ```
 
 ### 2. Set up a Python virtual environment
